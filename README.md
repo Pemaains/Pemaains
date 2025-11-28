@@ -47,15 +47,11 @@ Born in Humla, one of Nepal's highest and most remote districts, I learned early
 
 ## 🌟 What Drives Me
 
-```javascript
-const pema = {
-    location: "Humla → Kathmandu → The Digital World",
-    currentFocus: ["Frontend Development", "User Experience", "Clean Code"],
-    passions: ["Trekking", "Reading", "Anime", "Nature", "Technology"],
-    philosophy: "Distance is just another challenge to overcome",
-    mission: "Building bridges between imagination and reality through code"
-};
-```
+- 📍 Location: Humla → Kathmandu → The Digital World
+- 🎯 Current Focus: Frontend Development, User Experience, Clean Code
+- ❤️ Passions: Trekking, Reading, Anime, Nature, Technology
+- 💭 Philosophy: Distance is just another challenge to overcome
+- 🚀 Mission: Building bridges between imagination and reality through code
 
 ## 🚀 Current Journey
 
