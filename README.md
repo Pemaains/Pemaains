@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hi, I'm Pema!
+<div align="center">
+Show Image
 
-<!--
-**Pemaains/Pemaains** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+🚀 About Me
+I'm a passionate developer from Kathmandu, Nepal, who loves building innovative solutions and contributing to open source. I believe in writing clean, maintainable code and continuously expanding my skill set.
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript • TypeScript • Python • Java • C++
+Frontend
+
+React • Next.js • Vue.js • HTML5 • CSS3 • Tailwind CSS
+Backend
+
+Node.js • Express • Django • FastAPI • RESTful APIs
+Database & Tools
+
+MongoDB • PostgreSQL • MySQL • Git • Docker • AWS
+📊 GitHub Stats
+<div align="center">
+Show Image
+
+Show Image
+
+Show Image
+
+</div>
+🔥 Current Focus
+🔭 Building full-stack applications with modern frameworks
+🌱 Deepening my knowledge in cloud architecture and DevOps
+👯 Open to collaborating on interesting open source projects
+💡 Exploring AI/ML integration in web applications
+🏆 Achievements
+Show Image
+
+📫 Let's Connect
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+⚡ Fun Facts
+🎯 I love solving algorithmic challenges
+🌄 Based in the beautiful city of Kathmandu
+📚 Continuous learner and tech enthusiast
+🎮 Gaming and coding are my go-to stress busters
+<div align="center">
+Show Image
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
