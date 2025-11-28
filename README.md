@@ -7,7 +7,7 @@
 *From the peaks of Humla to the world of code*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pema-ringjin-lama-3075b6352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](codewithpema@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:codewithpema@gmail.com)
 
 </div>
 
@@ -90,7 +90,7 @@ When I'm not coding, you'll find me:
 
 I'm always open to interesting conversations, collaborations, and opportunities!
 
-- 📧 Email: [Pema's Email](codewithpema@gmail.com)
+- 📧 Email: [Pema's Email](mailto:codewithpema@gmail.com)
 - 💼 LinkedIn: [Pema Ringjin Lama](https://www.linkedin.com/in/pema-ringjin-lama-3075b6352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 
