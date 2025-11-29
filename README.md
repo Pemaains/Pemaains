@@ -69,7 +69,7 @@ Born in Humla, one of Nepal's highest and most remote districts, I learned early
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=Pemaains&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true)
 
