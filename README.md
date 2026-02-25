@@ -57,25 +57,22 @@ Passive Skill: Resilience from the mountains
 
 ## 📊 Power Level Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pemaains&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pemaains&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 Achievement Aura
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
 
 ---
 
