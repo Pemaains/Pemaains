@@ -120,6 +120,14 @@ Passive Skill: Resilience from the mountains
 
 ---
 
+## 💬 Daily Scroll of Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
 ## 🌸 Dev Philosophy
 
 > "A true shinobi adapts.  
