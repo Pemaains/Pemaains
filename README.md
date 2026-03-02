@@ -67,7 +67,7 @@ Passive Skill: Resilience from the mountains
 ## 🏆 Achievement Aura
 
 <p align="center">
-  <img src="https://github-profile-trophy-914vlfulh-pemaains-projects.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+  <img src="https://github-profile-trophy-topaz-six.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
 </p>
 
 ---
