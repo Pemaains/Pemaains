@@ -67,7 +67,15 @@ Passive Skill: Resilience from the mountains
 ## 🏆 Achievement Aura
 
 <p align="center">
-  <img src="https://github-profile-trophy-topaz-six.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+  <img src="https://img.shields.io/github/followers/Pemaains?label=Followers&style=for-the-badge&color=blue&labelColor=1a1b27" />
+  <img src="https://img.shields.io/github/stars/Pemaains?label=Total%20Stars&style=for-the-badge&color=yellow&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Contributions-339-brightgreen?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Streak-7%20Days-orange?style=for-the-badge&labelColor=1a1b27" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-00F7FF?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Based%20In-Kathmandu-blueviolet?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Status-Training%20Arc-red?style=for-the-badge&labelColor=1a1b27" />
 </p>
 
 ---
