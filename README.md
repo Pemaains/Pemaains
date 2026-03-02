@@ -80,14 +80,6 @@ Passive Skill: Resilience from the mountains
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pemaains&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Beast (Enable via GitHub Action)
 
 <div align="center">
