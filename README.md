@@ -54,8 +54,8 @@ Passive Skill: Resilience from the mountains
 ## 📊 Power Level Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-two-virid-35.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-two-virid-35.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ Passive Skill: Resilience from the mountains
 ## 🏆 Achievement Aura
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+  <img src="https://github-profile-trophy-topaz-six.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
 </p>
 
 ---
