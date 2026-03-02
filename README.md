@@ -1,20 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Pema%20Ringjin%20Lama&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Anime%20×%20Developer%20Fusion%20⚡&descAlignY=75"/>
-
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+⚡;Mountain+Soul+🏔️;Anime+Enthusiast+🎌;React+%7C+Flutter+%7C+Django;Training+Arc:+Becoming+Elite+Dev+🔥" />
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Pemaains&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
 
 # 🏔️ Pema Ringjin Lama  
 ### 「コード忍者」– The Mountain Code Shinobi ⚔️
-
 > *From the peaks of Humla to the digital battlefield of code.*
 
 ---
@@ -58,10 +53,9 @@ Passive Skill: Resilience from the mountains
 ## 📊 Power Level Stats
 
 <p align="center">
-  <img src="https://vercel.com/pemaains-projects/github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://vercel.com/pemaains-projects/github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pemaains&theme=tokyonight&hide_border=true"/>
 </p>
@@ -98,9 +92,9 @@ Passive Skill: Resilience from the mountains
 
 ## 🌸 Dev Philosophy
 
-> “A true shinobi adapts.  
+> "A true shinobi adapts.  
 > A true developer debugs.  
-> A true leader uplifts others.”
+> A true leader uplifts others."
 
 Like every great anime protagonist:
 - 💪 Growth comes through challenge  
@@ -113,7 +107,6 @@ Like every great anime protagonist:
 ## 🌌 Beyond Code
 
 When not in battle mode:
-
 - 🥾 Trekking Himalayan trails  
 - 📖 Reading deep stories  
 - 🎬 Watching anime  
@@ -129,7 +122,6 @@ When not in battle mode:
 <a href="mailto:codewithpema@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://www.linkedin.com/in/pema-ringjin-lama-3075b6352">
   <img src="https://img.shields.io/badge/LinkedIn-Form_Alliance-blue?style=for-the-badge&logo=linkedin"/>
 </a>
