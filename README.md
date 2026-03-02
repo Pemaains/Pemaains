@@ -80,16 +80,6 @@ Passive Skill: Resilience from the mountains
 
 ---
 
-## 🐍 Contribution Beast (Enable via GitHub Action)
-
-<div align="center">
-
-![snake gif](https://github.com/Pemaains/Pemaains/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🎌 Shinobi at Work
 
 <div align="center">
