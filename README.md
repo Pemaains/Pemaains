@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Pema%20Ringjin%20Lama&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Anime%20×%20Developer%20Fusion%20⚡&descAlignY=75"/>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Frontend+Developer+⚡;Mountain+Soul+🏔️;Anime+Enthusiast+🎌;React+%7C+Flutter+%7C+Django;Training+Arc:+Becoming+Elite+Dev+🔥" />
 <br/>
@@ -53,9 +54,10 @@ Passive Skill: Resilience from the mountains
 ## 📊 Power Level Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pemaains&theme=tokyonight&hide_border=true"/>
 </p>
@@ -65,7 +67,15 @@ Passive Skill: Resilience from the mountains
 ## 🏆 Achievement Aura
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pemaains&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pemaains&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
