@@ -58,8 +58,8 @@ Passive Skill: Resilience from the mountains
 ## 📊 Power Level Stats
 
 <p align="center">
-  <img src="https://[YOUR-VERCEL-URL](https://vercel.com/pemaains-projects/github-readme-stats).vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://vercel.com/pemaains-projects/github-readme-stats.vercel.app/api?username=Pemaains&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://vercel.com/pemaains-projects/github-readme-stats.vercel.app/api/top-langs/?username=Pemaains&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
